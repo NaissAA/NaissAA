@@ -8,17 +8,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=NaissAA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="https://github.com/CyberTechWorld/CyberTechWorld/blob/main/anime%201.gif" width="250px" height="250px" align="right" style="padding-left: 0px; padding-right: 100px;">
+<img src="https://github.com/CyberTechWorld/CyberTechWorld/blob/main/anime%201.gif" width="180px" height="180px" align="right" style="padding-left: 0px; padding-right: 100px;">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaissAA&theme=tokyonight)](https://git.io/streak-stats)
 
 <p><img width="400px" height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaissAA&layout=compact&&theme=tokyonight" alt="NaissAA" /></p>
 
 <p align="left"> <ing src="https://gifs.alphacoders.com/gifs/view/9881" /> <p/>
-
-<p align = "center">
- <img  width="3000px" src="https://activity-graph.herokuapp.com/graph?username=NaissAA&theme=redical">
-</p>  
 
 
 
@@ -28,7 +24,13 @@
 <h3 align="left">Social :</h3> 
 <a href="https://t.me/Nasif_Nub">
   <img align="left" alt="NaissAA's" Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+</a>
 
+
+
+<p align = "center">
+ <img  width="3000px" src="https://activity-graph.herokuapp.com/graph?username=NaissAA&theme=redical">
+</p>  
 
 
 
